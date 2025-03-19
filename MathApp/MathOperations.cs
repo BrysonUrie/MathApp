@@ -7,6 +7,7 @@ namespace MathApp
         public static int Subtract(int a, int b)
         {
             int diff = 0;
+            Console.WriteLine("Test");
             for (var i = 0; i < 1; i++)
             {
                 diff += a;
